@@ -1,5 +1,5 @@
 {
-  "name": "markrogoyski/math-php",
+  "name": "kryzysiek/math-php",
   "type": "library",
   "description": "Math Library for PHP. Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra",
   "keywords": ["math", "mathematics", "probability", "combinatorics", "statistics", "distributions", "regressions", "linear algebra", "matrix", "algebra", "numerical analysis"],
