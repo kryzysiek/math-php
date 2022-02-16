@@ -1181,6 +1181,11 @@ class Special
             $I = 0;
             do {
                 $I_new = self::iBetaCF($m, $x, $a, $b);
+                
+                if ($I_new == 0) {
+                    return $I;
+                }
+                
                 if ($m > 10) {
                     $dif = \abs(($I - $I_new) / $I_new);
                 }
